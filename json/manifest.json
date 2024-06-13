@@ -1,0 +1,19 @@
+{
+    "name": "合约计算器",
+    "short_name": "合约计算器",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "一个专业的比特币、以太坊合约计算器，由比特趋势大作手开发",
+    "orientation": "portrait-primary",
+    "theme_color": "#fff",
+    "icons": [{
+        "src": "/images/manifest-icon-192.maskable.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }, {
+        "src": "/images/manifest-icon-512.maskable.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }]
+}
