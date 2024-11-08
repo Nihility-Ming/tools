@@ -1,7 +1,7 @@
 {
     "name": "合约计算器",
     "short_name": "合约计算器",
-    "start_url": "/",
+    "start_url": "/#/counter/",
     "display": "standalone",
     "background_color": "#fff",
     "description": "一个专业的比特币、以太坊合约计算器，由比特趋势大作手开发",
